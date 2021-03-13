@@ -49,7 +49,7 @@ app.delete('/', index_delete)
 Specifying a public folder can be done as shown below:
 
 ```python
-app.public('/public')
+app.public('public')
 ```
 
 ## 📜 License
