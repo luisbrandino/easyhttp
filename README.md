@@ -1,13 +1,16 @@
-<h1 style="text-align: center;">✨ easyhttp ✨</h1> 
+<h1 align="center">✨ easyhttp ✨</h1> 
 
-<span style="text-align: center;">
+<p align="center">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luisbrandino/easyhttp?style=flat-square">
 
- ![GitHub last commit](https://img.shields.io/github/last-commit/luisbrandino/easyhttp?style=flat-square)
- ![GitHub top language](https://img.shields.io/github/languages/top/luisbrandino/easyhttp?style=flat-square) ![GitHub](https://img.shields.io/github/license/luisbrandino/easyhttp?style=flat-square)
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luisbrandino/easyhttp?style=flat-square">
 
+<img alt="License" src="https://img.shields.io/github/license/luisbrandino/easyhttp?style=flat-square">
+</p>
+
+<p align="center">
 easyhttp is a simple HTTP server made for study purposes.
-
-</span>
+</p>
 
 ## 🚀 Installation
 
