@@ -1,10 +1,13 @@
-<center><h1>✨ easyhttp ✨</h1> 
+<h1 style="text-align: center;">✨ easyhttp ✨</h1> 
 
- ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/luisbrandino/easyhttp/master?style=flat-square)
+<span style="text-align: center;">
+
+ ![GitHub last commit](https://img.shields.io/github/last-commit/luisbrandino/easyhttp?style=flat-square)
  ![GitHub top language](https://img.shields.io/github/languages/top/luisbrandino/easyhttp?style=flat-square) ![GitHub](https://img.shields.io/github/license/luisbrandino/easyhttp?style=flat-square)
 
 easyhttp is a simple HTTP server made for study purposes.
-</center>
+
+</span>
 
 ## 🚀 Installation
 
