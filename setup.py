@@ -9,7 +9,7 @@ import os
 
 VERSION = '0.0.5'
 DESCRIPTION = 'Basic HTTP server package'
-LONG_DESCRIPTION = '👩‍💻 Simple Python HTTP server'
+LONG_DESCRIPTION = '👩‍💻 Simple Python HTTP server made for study purposes.'
 
 # Setting up
 setup(
