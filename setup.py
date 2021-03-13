@@ -2,13 +2,14 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-here = os.path.abspath(os.path.dirname(__file__))
+#here = os.path.abspath(os.path.dirname(__file__))
 
-with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
-    LONG_DESCRIPTION = fh.read()
+#with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
+#    LONG_DESCRIPTION = fh.read()
 
-VERSION = '0.0.3'
+VERSION = '0.0.5'
 DESCRIPTION = 'Basic HTTP server package'
+LONG_DESCRIPTION = '👩‍💻 Simple Python HTTP server'
 
 # Setting up
 setup(

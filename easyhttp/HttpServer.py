@@ -40,6 +40,15 @@ class App:
         """
 
         self.routes['put'][route] = callback
+
+    def delete(self, route, callback):
+        """Calls the callback whenever an HTTP DELETE request is made to the specified route.
+        
+        :param route: route for which the callback is called
+        :param callback: callback function
+        """
+
+        self.routes['delete'][route] = callback
     
     def public(self, public_folder_path):
         """Defines a public directory to serve static content such as JS and CSS.

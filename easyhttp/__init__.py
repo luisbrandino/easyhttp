@@ -1,1 +1,1 @@
-from HttpServer import App
+from .HttpServer import App
